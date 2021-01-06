@@ -1,0 +1,18 @@
+# Filename: gitignore
+# Note:     A gitignore for this repository (duh).
+
+# Ignore everything!
+*
+
+# But descend into directories.
+!*/
+
+# And mind the whitelist!
+!.gitignore
+!makefile
+!readme.md
+!license.txt
+
+!/doc/*.org
+
+!/src/filet.sh
