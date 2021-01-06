@@ -1,1 +1,12 @@
-Development notes.
+Development notes for posterity.
+* Features
+  - Create/destroy file symlinks.
+  - Report whether a symlink's state has changed since creation.
+  - Copy files from one directory to another.
+  - Read from config file, /e.g./ JSON or YAML.
+  - Validates config file and reports errors and recommendations.
+* Tasks
+** Backlog
+** Current
+*** TODO Port POSIX shell script functionality.
+**** Tasks [0/0]

@@ -1,1 +1,2 @@
-# Simple CLI file manager tool.
+# Simple CLI file management tool.
+WIP.
