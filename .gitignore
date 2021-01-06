@@ -15,4 +15,5 @@
 
 !/doc/*.org
 
-!/src/filet.sh
+!/src/**/*.hs
+!/src/**/*.sh
